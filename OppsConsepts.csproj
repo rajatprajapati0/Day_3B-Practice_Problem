@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>OppsConsepts.InterfaceConcept</StartupObject>
+    <StartupObject>OppsConsepts.Access_Modifiers_Concepts</StartupObject>
   </PropertyGroup>
 
 </Project>
