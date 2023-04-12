@@ -2,11 +2,12 @@
 
 namespace OppsConsepts
 {
-    internal class Program
+    internal class TypesOfConstructors
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Oops Consepts");
+
         }
     }
 }
